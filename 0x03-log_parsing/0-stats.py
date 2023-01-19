@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Contains a python script that reads stdin
 line by line and computes metrics.
